@@ -12,7 +12,7 @@
 <script>
 export default {
   // eslint-disable-next-line vue/multi-word-component-names
-  name: "Home",
+  name: "HomePage",
   data() {
     return {
       mentImg: require("@/assets/ment.png"),
